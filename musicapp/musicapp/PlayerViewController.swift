@@ -2,7 +2,7 @@
 //  PlayerViewController.swift
 //  musicapp
 //
-//  Created by Sunny Richards on 11/11/22.
+//  Created by Yogesh on 11/11/22.
 //
 import AVFoundation
 import UIKit
